@@ -38,7 +38,7 @@ export default async function LocaleHome({ params }: { params: Promise<{ lang: s
               <div className="orb orb-blue" />
               <div className="orb orb-gold" />
               <div className="corridor-card">
-                <span className="corridor-label">PRIMEVO</span>
+                <span className="corridor-label">PRIMEVO-test</span>
                 <strong>{t.hero.corridor}</strong>
                 <p>{t.hero.corridorText}</p>
                 <div className="corridor-line">
